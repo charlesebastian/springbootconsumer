@@ -1,8 +1,12 @@
-package com.kafka.springbootconsumer.repository;
+/*package com.kafka.springbootconsumer.repository;
 
+import com.kafka.springbootconsumer.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
-import com.kafka.springbootconsumer.entity.Customer;
+
 
 public interface CustomerRepository extends JpaRepository<Customer, Long>{
 
 }
+
+
+ */

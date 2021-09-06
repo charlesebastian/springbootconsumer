@@ -1,7 +1,5 @@
 /*
 
-
-
 package com.kafka.springbootconsumer.config;
 
 import java.util.HashMap;
